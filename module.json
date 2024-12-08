@@ -1,10 +1,11 @@
 {
   "id": "adandd-2e-rage-of-dragons-book-1",
   "title": "AD&D 2e: Rage of Dragons Book 1",
-  "version": "1.0.0",
+  "version": "12.241208.01",
   "compatibility": {
     "minimum": "12",
-    "verified": "12"
+    "verified": "12",
+    "maximum": "12"
   },
   "authors": [
     {
@@ -68,5 +69,7 @@
       },
       "system": "ars"
     }
-  ]
+  ],
+  "manifest": "https://raw.githubusercontent.com/dudeanddragons/adandd-2e-rage-of-dragons-book-1/refs/heads/master/module.json",
+  "download": ""
 }
