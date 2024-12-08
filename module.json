@@ -1,0 +1,72 @@
+{
+  "id": "adandd-2e-rage-of-dragons-book-1",
+  "title": "AD&D 2e: Rage of Dragons Book 1",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Dudeanddragons",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "pack-1",
+      "label": "Rage of Dragons Book 1 Adventure",
+      "path": "packs/pack-1",
+      "type": "Adventure",
+      "system": "ars",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "rage-of-dragons-book-1",
+      "label": "Rage of Dragons Book 1 Jornal",
+      "path": "packs/rage-of-dragons-book-1",
+      "type": "JournalEntry",
+      "system": "ars",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "rage-of-dragons-items",
+      "label": "Rage of Dragons Book 1 Items",
+      "path": "packs/rage-of-dragons-items",
+      "type": "Item",
+      "system": "ars",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "rage-of-dragons-book-1-scenes",
+      "label": "Rage of Dragons Book 1 Scenes",
+      "path": "packs/rage-of-dragons-book-1-scenes",
+      "type": "Scene",
+      "system": "ars",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "rage-of-dragons-book-1-actors",
+      "label": "Rage of Dragons Book 1 Actors",
+      "path": "packs/rage-of-dragons-book-1-actors",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "ars"
+    }
+  ]
+}
