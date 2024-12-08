@@ -70,6 +70,6 @@
       "system": "ars"
     }
   ],
-"manifest": "https://raw.githubusercontent.com/dudeanddragons/adandd-2e-rage-of-dragons-book-1/refs/heads/master/module.json",
-"download": "https://raw.githubusercontent.com/dudeanddragons/adandd-2e-rage-of-dragons-book-1/refs/heads/master/module.json"
+"manifest": "https://<your-token>@raw.githubusercontent.com/dudeanddragons/adandd-2e-rage-of-dragons-book-1/master/module.json",
+"download": "https://<your-token>@raw.githubusercontent.com/dudeanddragons/adandd-2e-rage-of-dragons-book-1/master/module.json"
 }
